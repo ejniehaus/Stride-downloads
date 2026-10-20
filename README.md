@@ -20,8 +20,8 @@ For a server, put the same jar in the server's `mods` folder. Server settings li
 
 ## Latest release
 
-**[Download stride-0.1.0.jar](https://github.com/ejniehaus/Stride-downloads/releases/download/v0.1.0/stride-0.1.0.jar)** (v0.1.0)
+**[Download stride-0.2.0.jar](https://github.com/ejniehaus/Stride-downloads/releases/download/v0.2.0/stride-0.2.0.jar)** (v0.2.0)
 
-v0.1.0 cannot connect to v0.0.2 servers or clients, so everyone on a server must update.
+v0.2.0 can connect with v0.1.0 (same network protocol). v0.0.2 cannot connect to v0.1.0 or newer.
 
 All versions: [releases page](https://github.com/ejniehaus/Stride-downloads/releases)
