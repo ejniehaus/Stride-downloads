@@ -20,4 +20,8 @@ For a server, put the same jar in the server's `mods` folder. Server settings li
 
 ## Latest release
 
-**[Download the latest release](https://github.com/ejniehaus/Stride-downloads/releases/latest)**
+**[Download stride-0.1.0.jar](https://github.com/ejniehaus/Stride-downloads/releases/download/v0.1.0/stride-0.1.0.jar)** (v0.1.0)
+
+v0.1.0 cannot connect to v0.0.2 servers or clients, so everyone on a server must update.
+
+All versions: [releases page](https://github.com/ejniehaus/Stride-downloads/releases)
